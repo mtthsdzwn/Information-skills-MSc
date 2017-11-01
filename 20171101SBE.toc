@@ -1,0 +1,6 @@
+\select@language {UKenglish}
+\beamer@sectionintoc {1}{Front matter}{1}{0}{1}
+\beamer@sectionintoc {2}{Developing a research question}{4}{0}{2}
+\beamer@sectionintoc {3}{Answering your research question}{17}{0}{3}
+\beamer@sectionintoc {4}{Communicating your answer}{19}{0}{4}
+\beamer@sectionintoc {5}{More support}{21}{0}{5}
